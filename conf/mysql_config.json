@@ -1,0 +1,26 @@
+{
+    "localhost":{
+        "host":"localhost",
+        "port":3306,
+        "user":"root",
+        "password":"123456",
+        "database":"ifs_test1",
+        "charset":"utf8"
+        },
+    "localhost_huaan":{
+        "host":"localhost",
+        "port":3306,
+        "user":"root",
+        "password":"123456",
+        "database":"huaan",
+        "charset":"utf8"
+        },
+    "localhost_cf_test":{
+        "host":"localhost",
+        "port":3306,
+        "user":"root",
+        "password":"123456",
+        "database":"cf_test",
+        "charset":"utf8"
+        }
+}
